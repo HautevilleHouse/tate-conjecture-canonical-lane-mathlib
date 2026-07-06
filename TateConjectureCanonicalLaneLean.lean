@@ -5,3 +5,4 @@ import TateConjectureCanonicalLaneLean.SourceDependencies
 import TateConjectureCanonicalLaneLean.Formalization
 import TateConjectureCanonicalLaneLean.ReviewerBridge
 import TateConjectureCanonicalLaneLean.TheoremStatement
+import TateConjectureCanonicalLaneLean.MathlibStatement
