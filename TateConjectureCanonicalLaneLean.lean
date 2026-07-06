@@ -1,0 +1,7 @@
+-- This module is the root of the TateConjectureCanonicalLaneLean Lean proof package.
+import TateConjectureCanonicalLaneLean.Basic
+import TateConjectureCanonicalLaneLean.SourcePackage
+import TateConjectureCanonicalLaneLean.SourceDependencies
+import TateConjectureCanonicalLaneLean.Formalization
+import TateConjectureCanonicalLaneLean.ReviewerBridge
+import TateConjectureCanonicalLaneLean.TheoremStatement
